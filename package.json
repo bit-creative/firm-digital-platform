@@ -1,0 +1,12 @@
+{
+
+  "name": "digital-content-platform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bit-creative/firm-digital-platform.git",
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "license": "MIT"
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
